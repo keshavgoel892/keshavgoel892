@@ -1,6 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*4kFdX7RumWyEe_V9)](https://www.mohammadramiz.in)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1200/0*4kFdX7RumWyEe_V9)]()
 
-<h1 align="center">Hi 👋, I'm Mohammad Ramiz</h1>
+<h1 align="center">Hi 👋, I'm Keshav Goyal </h1>
 <h3 align="center">A passionate Android, Server-side Python, and AI Developer</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <h2 align="center">💼 My Portfolio</h2>
 
 <div align="center" style="margin: 20px 0;">
-  <a href="https://www.mohammadramiz.in" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Visit%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mohammadramiz.in" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/View_Site-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
@@ -44,7 +44,7 @@
           <li>🔭 I’m currently working on <strong>AI-powered mobile applications</strong></li>
           <li>🌱 Learning <strong>Android and Artificial Intelligence</strong></li>
           <li>💬 Ask me about <strong>Android, Python, Flask, ML</strong></li>
-          <li>📫 Reach me at <strong>ramizanas6@gmail.com</strong></li>
+          <li>📫 Reach me at <strong>Keshavgoel892@gmail.com</strong></li>
           <li>⚡ Fun Fact: <em>Coding is my meditation</em></li>
         </ul>
       </td>
@@ -98,7 +98,7 @@
     </a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/KobraOp/Mr.-Manager">
+    <td><a href="">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavgoel892&repo=Mr.-Manager&theme=tokyonight" />
     </a></td>
     <td><a href="https://github.com/KobraOp/BubbleShare">
@@ -121,19 +121,19 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-ramiz-886468217" target="_blank" title="Connect on LinkedIn">
+  <a href="" target="_blank" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/mohammad__ramiz" target="_blank" title="Follow me on Twitter">
+  <a href="" target="_blank" title="Follow me on Twitter">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/kobraop" target="_blank" title="Check out my Kaggle">
+  <a href="" target="_blank" title="Check out my Kaggle">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:ramizanas6@gmail.com" target="_blank" title="Email me">
+  <a href="mailto:keshavgoel892@gmail.com" target="_blank" title="Email me">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.mohammadramiz.in" target="_blank" title="Visit my Portfolio">
+  <a href="" target="_blank" title="Visit my Portfolio">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
